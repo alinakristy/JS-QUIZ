@@ -60,7 +60,7 @@ var quastions = [
     },
 ]
 
-var timeLeft = quastions.length * 2;
+var timeLeft = quastions.length * 10;
 
 var title = document.getElementById('question-title');
 
